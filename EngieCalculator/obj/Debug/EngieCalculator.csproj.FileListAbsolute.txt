@@ -1,0 +1,13 @@
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\bin\Debug\EngieCalculator.exe.config
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\bin\Debug\EngieCalculator.exe
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\bin\Debug\EngieCalculator.pdb
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\obj\Debug\EngieCalculator.Form1.resources
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\obj\Debug\EngieCalculator.Properties.Resources.resources
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\obj\Debug\EngieCalculator.csproj.GenerateResource.cache
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\obj\Debug\EngieCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\obj\Debug\EngieCalculator.exe
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\obj\Debug\EngieCalculator.pdb
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\bin\Debug\EngieCalculator.exe.manifest
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\bin\Debug\EngieCalculator.application
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\obj\Debug\EngieCalculator.exe.manifest
+C:\Users\Anto\source\repos\EngieCalculator\EngieCalculator\obj\Debug\EngieCalculator.application
